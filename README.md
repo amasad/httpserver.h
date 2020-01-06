@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/jeremycw/httpserver.h.svg?branch=master)](https://travis-ci.com/jeremycw/httpserver.h)
 
+[![Run on Repl.it](https://repl.it/badge/github/jeremycw/httpserver.h)](https://repl.it/github/jeremycw/httpserver.h)
 See `httpserver.h` for API documentation
 
 # Description
